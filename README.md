@@ -11,6 +11,6 @@ Let’s work together to build things that actually matter 🚀.
 
 #### 📊 GitHub Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=kruizo&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kruizo&exclude_repo=res-training&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kruizo&exclude_repo=model-training&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
