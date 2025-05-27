@@ -1,7 +1,5 @@
 # 💫 About Me
-I'm a software and web developer with a strong focus on backend engineering and building reliable, production-ready systems. I care about performance, simplicity, and maintaining robust code. I enjoy working on scalable infrastructure, database management, tinkering with backend logic, and setting up reliable deployment pipelines.
-
-Let’s work together to build things that actually matter 🚀.
+I'm a software and web developer with a strong focus on backend engineering and building reliable, production-ready systems 🚀.
 
 #### 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kyneth.ruizo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//kyneth-ruizo-592820313/) 
