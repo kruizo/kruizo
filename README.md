@@ -1,7 +1,7 @@
 # 💫 About Me
 I'm a software and web developer with a strong focus on backend engineering. 
 
-Creative, builder, experimenter, & proud light mode enjoyer. 
+Creative, builder, experimenter, & proud light mode enjoyer 📄. 
 
 #### 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kyneth.ruizo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//kyneth-ruizo-592820313/) 
